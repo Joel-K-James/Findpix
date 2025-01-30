@@ -10,8 +10,8 @@
 // Provide the RTDB payload printing info and other helper functions.
 #include <addons/RTDBHelper.h>
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "Autobonics_4G"
-#define WIFI_PASSWORD "autobonics@27"
+#define WIFI_SSID "Neo_7"
+#define WIFI_PASSWORD "12345678"
 // For the following credentials, see examples/Authentications/SignInAsUser/EmailPassword/EmailPassword.ino
 /* 2. Define the API Key */
 #define API_KEY "AIzaSyDfgzl6ucMinUyZCJaj_fNYN-4A9CT5Zco"
